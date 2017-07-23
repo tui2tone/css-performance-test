@@ -1,0 +1,20 @@
+
+.box-container {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.box-container .box {
+	flex: 0 0 25%;
+	height: 100px;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+}
+.box-container .box.resize {
+	flex: 0 0 50%;
+	height: 120px;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+}
+	

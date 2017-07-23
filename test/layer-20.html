@@ -1,0 +1,21 @@
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Css Performance Test</title>
+		<link rel="stylesheet" href="layer-20.css">
+	</head>
+	<body>
+		<button onClick="toggleBoxAnimation()">Toggle</button>
+		<div class='box-container'>
+			
+		</div>
+	
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript" charset="utf-8" async defer></script>
+		<script type="text/javascript">
+			function toggleBoxAnimation() {
+				$(".box").toggleClass("resize")
+			}
+		</script>
+	</body>
+	</html>

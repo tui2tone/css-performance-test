@@ -1,0 +1,14 @@
+
+.box-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+}
+.box-container .box {
+	wdth: 25%;
+	height: 100px;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+}
+	

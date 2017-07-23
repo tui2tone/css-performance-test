@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 16px;
+}
+
+body.text-bigger {
+	font-size: 32px;
+}
+
+.app-container {
+	padding: 20px;
+	background-color: #DDD;
+	width: 100%;
+	transform: scale(1);
+	position: fixed;
+	left: 0;
+	top: 0;
+	transition: all 1s ease;
+}
+
+.app-container:hover {
+	transform: scale(1.2);
+}
+
+.app-container .app-body {
+	font-size: 1em;
+}
+
+
+.app-container .app-body.text-bigger {
+	font-size: 2em;
+}
+
+.box-container {
+	width: 300px;
+	height: 300px;
+	left: 0;
+	bottom: 0;
+	position: relative;
+	transition: all 1s ease;
+	background-color: #FF0000;
+	/*transform: translate(0,0) scale(1);*/
+	/*transform-origin: 100% 0;*/
+	/*font-size: 1em;*/
+	z-index: 100;
+}
+
+.box-container.resize {
+	/*transform: scale(0.5);*/
+	left: 150px;
+	bottom: 150px;
+	width: 150px;
+	height: 150px;
+	/*font-size: 2em;*/
+	/*background-color: #FFF;*/
+}

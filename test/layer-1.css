@@ -1,0 +1,19 @@
+
+.box-container {
+}
+.box-container .box.elm0 {
+	position: fixed;
+	z-index: 0;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 30px; 
+	top: 30px; 
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+
+}
+	

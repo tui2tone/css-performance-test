@@ -1,0 +1,21 @@
+
+.box-container {
+	overflow: auto;
+	width: 100%;
+	display: block;
+}
+.box-container .box {
+	width: 25%;
+	float: left;
+	height: 100px;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+}
+.box-container .box.resize {
+	width: 50%;
+	float: left;
+	height: 120px;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+}
+	

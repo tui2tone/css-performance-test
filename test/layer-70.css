@@ -1,0 +1,401 @@
+
+.box-container {
+}
+.box-container .box.elm50 {
+	position: fixed;
+	z-index: 50;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 100px; 
+	top: 100px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm51 {
+	position: fixed;
+	z-index: 51;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 102px; 
+	top: 102px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm52 {
+	position: fixed;
+	z-index: 52;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 104px; 
+	top: 104px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm53 {
+	position: fixed;
+	z-index: 53;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 106px; 
+	top: 106px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm54 {
+	position: fixed;
+	z-index: 54;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 108px; 
+	top: 108px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm55 {
+	position: fixed;
+	z-index: 55;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 110px; 
+	top: 110px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm56 {
+	position: fixed;
+	z-index: 56;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 112px; 
+	top: 112px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm57 {
+	position: fixed;
+	z-index: 57;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 114px; 
+	top: 114px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm58 {
+	position: fixed;
+	z-index: 58;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 116px; 
+	top: 116px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm59 {
+	position: fixed;
+	z-index: 59;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 118px; 
+	top: 118px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm60 {
+	position: fixed;
+	z-index: 60;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 120px; 
+	top: 120px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm61 {
+	position: fixed;
+	z-index: 61;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 122px; 
+	top: 122px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm62 {
+	position: fixed;
+	z-index: 62;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 124px; 
+	top: 124px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm63 {
+	position: fixed;
+	z-index: 63;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 126px; 
+	top: 126px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm64 {
+	position: fixed;
+	z-index: 64;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 128px; 
+	top: 128px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm65 {
+	position: fixed;
+	z-index: 65;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 130px; 
+	top: 130px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm66 {
+	position: fixed;
+	z-index: 66;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 132px; 
+	top: 132px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm67 {
+	position: fixed;
+	z-index: 67;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 134px; 
+	top: 134px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm68 {
+	position: fixed;
+	z-index: 68;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 136px; 
+	top: 136px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	
+.box-container {
+}
+.box-container .box.elm69 {
+	position: fixed;
+	z-index: 69;
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	left: 138px; 
+	top: 138px; 
+	opacity: 0.5;
+	transition: all 1s ease;
+}
+.box-container .box.resize {
+	width: 200px;
+	height: 200px;
+	opacity: 0.6;
+
+}
+	

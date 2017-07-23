@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<link rel="stylesheet" href="reflow.css">
+</head>
+<body>
+	<div class="app-container">
+		<div class="app-header">
+			Header
+		</div>
+		<div class="app-body">
+			<h3>Lorem ipsum dolor sit amet</h3>
+			<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+			</p>
+			<div class="box-container box2">
+				<div class="box-body">Boxed</div>
+			</div>
+			<button onClick="toggleBoxAnimation()">Box Animation</button>
+			<button onClick="changeFontSizeBody()">Change Font-Size body</button>
+			<button onClick="changeFontSizeAppBody()">Change Font-Size .app-body</button>
+		</div>
+	</div>	
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript" charset="utf-8" async defer></script>
+	<script type="text/javascript">
+		function toggleBoxAnimation() {
+			$(".box2").toggleClass("resize")
+		}
+
+ 		function changeFontSizeBody() {
+			$("body").toggleClass("text-bigger");
+		}
+
+		function changeFontSizeAppBody() {
+			$(".app-body").toggleClass("text-bigger");
+		}
+	</script>
+</body>
+</html>

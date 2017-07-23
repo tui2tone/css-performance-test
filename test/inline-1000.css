@@ -1,0 +1,20 @@
+
+.box-container {
+	width: 100%;
+	display: block;
+	overflow: auto;
+}
+.box-container .box {
+	width: 25%;
+	display: inline-block;
+	height: 100px;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+}
+.box-container .box.resize {
+	width: 50%;
+	height: 120px;
+	background-color: #DDD;
+	border: 1px solid #FFF;
+}
+	
